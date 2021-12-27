@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash -x
 
 read -p "Enter a numeric Character [0-9] " NUMBER
 
